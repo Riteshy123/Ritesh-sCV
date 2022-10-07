@@ -104,6 +104,8 @@ img{
         width:100px;
         height:100px;
     }
+    .left-side li{
+        left:5%;
 }/*
 @media only screen and (max-width:550px) {
     img{
